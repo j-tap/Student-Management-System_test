@@ -1,4 +1,4 @@
-#WARNING: Malware Trojan-PSW.Script.Generic
+# WARNING: Malware Trojan-PSW.Script.Generic
 
 
 **Problem1** \
